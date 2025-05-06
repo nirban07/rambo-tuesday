@@ -58,3 +58,5 @@ app.http('ramboTuesday', {
       }
     }
   });
+
+app.start();
